@@ -9,7 +9,7 @@ but with Python I was able to manipulate the file and map the data with usuable 
 ![Screenshot 2024-02-05 174813](https://github.com/erickburci/LondonBikeSharing/assets/159087967/63a9f7ee-a440-4d8b-a4c3-5e7964a00dbc)
 ![Screenshot 2024-02-05 174848](https://github.com/erickburci/LondonBikeSharing/assets/159087967/55fbfba6-faa0-405d-9398-86c37eee156a)
 ![Screenshot 2024-02-05 174902](https://github.com/erickburci/LondonBikeSharing/assets/159087967/ad30e6aa-5049-4447-bc17-d29fc826c6c0)
-
+(...)
 
 After exporting the updated data, I used data visualization software **Tableau**
 to create interactive graphics to help better understand the data.
